@@ -1,0 +1,13 @@
+{
+  "name": "spacetoenjoy",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "local": "./node_modules/http-server/bin/http-server -p 8081"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
